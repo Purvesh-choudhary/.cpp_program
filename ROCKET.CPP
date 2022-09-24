@@ -1,3 +1,4 @@
+// compatible with Turbo c++ compiler
 
 #include<iostream.h>
 #include<conio.h>
